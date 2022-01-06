@@ -50,6 +50,8 @@ body {
     flex-direction: column;
     border-radius: 1rem;
     padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .output .previous {
